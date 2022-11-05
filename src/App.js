@@ -1,7 +1,7 @@
 import { Header } from './conponenets/Header';
 import { Container } from './conponenets/styles/Container.styled';
 
-function App() {
+const App = () => {
   return (
     <>
       <Header />
@@ -10,6 +10,6 @@ function App() {
       </Container>
     </>
   );
-}
+};
 
 export default App;
