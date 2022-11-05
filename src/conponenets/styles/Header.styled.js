@@ -12,4 +12,11 @@ export const Nav = styled.nav`
   margin-bottom: 40px;
 `;
 
-export const Logo = styled.img``;
+export const Logo = styled.img`
+  width: 60px;
+`;
+
+export const Image = styled.img`
+  width: 375px;
+  margin-left: 40px;
+`;
